@@ -2,7 +2,7 @@ using System;
 
 namespace Automobile
 {
-    class Automobile : Object
+    class Automobile
     {
         private string make;
         private string model;
