@@ -1,10 +1,11 @@
 namespace Automobile
 {
-    public enum AutoType
-    {
-        Sedan,
-        Truck,
-        Van,
-        SUV
-    }
+        public enum AutoType
+        {
+            Sedan,
+            Truck,
+            Van,
+            SUV,
+            Rock
+        };
 }
